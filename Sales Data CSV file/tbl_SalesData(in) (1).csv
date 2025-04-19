@@ -1,0 +1,13 @@
+OrderID,CustomerName,Region,OrderDate,ProductName,Category,Price,Quantity,TotalSales,,,,,,,,,
+1001,Karthick,North,1/5/2024,Laptop,Electronics,800,2,1600,,,,,,,,,
+1001,Karthick,North,1/5/2024,Desk Chair,Furniture,90,1,90,,,,,,,,,
+1002,Kumar,South,1/12/2024,Smartphone,Electronics,500,1,500,,,,,,,,,
+1003,John,East,2/2/2024,Printer,Electronics,150,3,450,,,ProductName,Sum of TotalSales,,Sum of TotalSales,Category,,
+1004,Adam,West,2/10/2024,Desk Chair,Furniture,90,2,180,,,Smartphone,1500,,Region,Electronics,Furniture,Grand Total
+1005,Karthick,North,3/15/2024,Laptop,Electronics,800,1,800,,,Printer,600,,East,1450,,1450
+1006,Kumar,South,3/18/2024,Office Table,Furniture,150,2,300,,,Office Table,300,,North,2610,90,2700
+1007,Chris,North,4/5/2024,Headphones,Electronics,70,3,210,,,Monitor,250,,South,750,300,1050
+1008,Frank,South,4/22/2024,Monitor,Electronics,250,1,250,,,Laptop,2400,,West,150,180,330
+1009,Toretto,East,5/2/2024,Smartphone,Electronics,500,2,1000,,,Headphones,210,,Grand Total,4960,570,5530
+1010,Jk,West,5/19/2024,Printer,Electronics,150,1,150,,,Desk Chair,270,,,,,
+,,,,,,,,,,,Grand Total,5530,,,,,
