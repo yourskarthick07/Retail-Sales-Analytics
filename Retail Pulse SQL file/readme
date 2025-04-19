@@ -1,4 +1,4 @@
-**Data Modeling in MySQL**
+Data Modeling in MySQL
    - Created tables using SQL (`create_tables.sql`)
    - Populated data (`insert_data.sql`)
    - Performed analysis queries (`queries_used.sql`)
