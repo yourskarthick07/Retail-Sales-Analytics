@@ -71,5 +71,5 @@ The dataset represents retail order data containing:
 -
 ## 🙋‍♂️ Author
 
-**Karthick** – Aspiring Business Intelligence Analyst  
+**Karthick** – Aspiring Data Analyst  
 📧 *knsmash07@gmail.com*
